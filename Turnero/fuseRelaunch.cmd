@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/juanz/Google Drive/Semestre 6/Laboratorio Electronica Digital/ProyectoTurnero/Turnero/TB_Turnero_isim_beh.exe" -prj "C:/Users/juanz/Google Drive/Semestre 6/Laboratorio Electronica Digital/ProyectoTurnero/Turnero/TB_Turnero_beh.prj" "work.TB_Turnero" 

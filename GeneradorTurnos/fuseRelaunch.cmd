@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/juanz/Google Drive/Semestre 6/Laboratorio Electronica Digital/ProyectoTurnero/GeneradorTurnos/TB_GeneradorTurnos_isim_beh.exe" -prj "C:/Users/juanz/Google Drive/Semestre 6/Laboratorio Electronica Digital/ProyectoTurnero/GeneradorTurnos/TB_GeneradorTurnos_beh.prj" "work.TB_GeneradorTurnos" 

@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# PlanAhead v14.7 (64-bit)
+# Build 321239 by xbuild on Fri Sep 27 19:29:51 MDT 2013
+# Start of session at: Thu Sep 22 23:15:33 2016
+# Process ID: 12308
+# Log file: C:/Users/juanz/Google Drive/Semestre 6/Laboratorio Electronica Digital/ProyectoTurnero/Turnero/planAhead_run_4/planAhead.log
+# Journal file: C:/Users/juanz/Google Drive/Semestre 6/Laboratorio Electronica Digital/ProyectoTurnero/Turnero/planAhead_run_4/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source {C:/Users/juanz/Google Drive/Semestre 6/Laboratorio Electronica Digital/ProyectoTurnero/Turnero/pa.fromHdl.tcl}
+update_compile_order -fileset sim_1
+set_property is_loc_fixed false [get_ports [list  SwitchEncendido]]
+set_property is_loc_fixed true [get_ports [list  SwitchEncendido]]
+startgroup
+set_property package_pin H18 [get_ports SwitchEncendido]
+endgroup
+set_property package_pin "" [get_ports [list  SwitchEncendido]]
+save_constraints
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1

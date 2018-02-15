@@ -1,0 +1,24 @@
+
+
+NET "Devuelvo" LOC = P9;
+NET "Recibo" LOC = U6;
+NET "clk" LOC = B8;
+
+# PlanAhead Generated physical constraints 
+
+NET "Envio" LOC = P9;
+NET "SwitchEncendido" LOC = G18;
+NET "BotonSiguiente" LOC = D18;
+NET "BotonAnterior" LOC = B18;
+NET "Salida7Segmentos4bits[0]" LOC = F15;
+NET "Salida7Segmentos4bits[3]" LOC = F17;
+NET "Salida7Segmentos4bits[1]" LOC = C18;
+NET "Salida7Segmentos4bits[2]" LOC = H17;
+NET "Salida7Segmentos8bits[7]" LOC = L18;
+NET "Salida7Segmentos8bits[6]" LOC = F18;
+NET "Salida7Segmentos8bits[5]" LOC = D17;
+NET "Salida7Segmentos8bits[4]" LOC = D16;
+NET "Salida7Segmentos8bits[3]" LOC = G14;
+NET "Salida7Segmentos8bits[2]" LOC = J17;
+NET "Salida7Segmentos8bits[1]" LOC = H14;
+NET "Salida7Segmentos8bits[0]" LOC = C17;
